@@ -1,5 +1,31 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+  text-align: center;
+
+}
+header {
+  text-align: center;
+}
+ nav a {
+  background-color:lightgrey ;
+}
+figcaption{
+  text-align: center;
+}
+
+section#featured-property img{
+  width: 900px;
+} 
+
+section#featured-property p {
+  margin: auto;
+  padding: 10px;
+  width: 800px;
+  text-align: center;
+}
+section#details div {
+  margin: auto;
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
 }
